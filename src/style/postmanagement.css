@@ -1,0 +1,36 @@
+/* styles.css */
+
+/* Container Styles */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+.searchbar-container {
+  max-width: 100%;
+    margin: 0 auto;
+  }
+.posts-container {
+  max-width: 100%;
+  margin: 0 auto;
+  }
+  
+  /* Search Input Styles */
+  .search-input {
+    width: 100%;
+    margin-bottom: 16px;
+  }
+  
+  /* Action Button Styles */
+  .action-button {
+    margin: 0 auto
+    /* margin-right: 10px; */
+  }
+  
+  /* Post Card Styles */
+  .post-card {
+    margin-bottom: 16px;
+    /* Add additional styles as needed */
+  }
+  
